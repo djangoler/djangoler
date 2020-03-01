@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Djangoler.com</title>
-    <link>https://www.djangoler.com/posts/</link>
+    <link>https://djangoler.com/posts/</link>
     <description>Recent content in Posts on Djangoler.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 15:46:47 +0100</lastBuildDate>
     
-	<atom:link href="https://www.djangoler.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://djangoler.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Djangoler Apps</title>
-      <link>https://www.djangoler.com/posts/djangoler-apps/</link>
+      <link>https://djangoler.com/posts/djangoler-apps/</link>
       <pubDate>Sun, 01 Mar 2020 15:46:47 +0100</pubDate>
       
-      <guid>https://www.djangoler.com/posts/djangoler-apps/</guid>
+      <guid>https://djangoler.com/posts/djangoler-apps/</guid>
       <description>this is the main body of the post And this ?</description>
     </item>
     
