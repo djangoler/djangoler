@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Djangoler.com</title>
-    <link>https://djangoler.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Djangoler.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 15:46:47 +0100</lastBuildDate>
     
-	<atom:link href="https://djangoler.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Djangoler Apps</title>
-      <link>https://djangoler.com/posts/djangoler-apps/</link>
+      <link>http://localhost:1313/posts/djangoler-apps/</link>
       <pubDate>Sun, 01 Mar 2020 15:46:47 +0100</pubDate>
       
-      <guid>https://djangoler.com/posts/djangoler-apps/</guid>
+      <guid>http://localhost:1313/posts/djangoler-apps/</guid>
       <description>Djangoler Apps This the Djangoler project. Inspired by the 12 startups in 12 months by Peter Levels, and other indie hackers approach to build MVPs to test products that can solve problems and perhaps turn into profitable businesses.
 Avoid &amp;ldquo;shiny&amp;rdquo; tech I am an engineer, currently working in a medium sized company, where I work with Go, using containers, deploying to kubernetes clusters, and with dedicated frontend and backend developers.</description>
     </item>
